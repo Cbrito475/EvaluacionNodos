@@ -1,0 +1,30 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "API Node.js",
+    "version": "1.0.0",
+    "description": "Documentación de la API para Postman",
+    "contact": {
+      "name": "Soporte API",
+      "email": "soporte@example.com"
+    }
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000",
+      "description": "Servidor de desarrollo"
+    },
+    {
+      "url": "https://tuproduccion.com",
+      "description": "Servidor de producción"
+    }
+  ],
+  "security": [
+    {
+      "bearerAuth": []
+    }
+  ],
+  "paths": {},
+  "components": {},
+  "tags": []
+}
