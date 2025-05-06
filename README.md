@@ -73,6 +73,9 @@ http://localhost:3000/api-docs
 Envía en los headers:
 - `accept-language`: `es` o `en`
 - `timezone`: Ej. `America/Mexico_City`
+## Postman ##
+
+Coleccion: https://.postman.co/workspace/My-Workspace~0fca628a-3c05-46d4-82a2-76530b6431b6/collection/36488995-fff7176d-4b17-4902-8b0c-baede3177a1b?action=share&creator=36488995
 
 ## 🐛 Troubleshooting
 
